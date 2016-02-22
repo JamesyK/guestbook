@@ -1,6 +1,11 @@
 <html>
   <head>
-    <title>CodeIgniter Tutorial</title>
+    <title>Guestbook</title>
+
+    <style>
+
+    </style>
+
   </head>
   <body>
 
